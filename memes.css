@@ -1,0 +1,20 @@
+body {
+    margin: 0%;
+}
+
+.Title {
+    background-image: url(josh-reeder-esparza-JACEkXaAay0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 250vh;
+    max-width: 100%;
+    height: 50vw;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+}
